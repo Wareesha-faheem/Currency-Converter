@@ -83,7 +83,7 @@ This project uses the **FreeExchangeRate API** to fetch live exchange rates for 
 ## 📸 Preview
 
 <p align="center">
-  <img src="./preview.png" alt="Currency Converter Preview" width="700"/>
+  <img src="./preview.PNG" alt="Currency Converter Preview" width="700"/>
 </p>
 
 ---
